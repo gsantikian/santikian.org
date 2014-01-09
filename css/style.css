@@ -1,11 +1,11 @@
 body {
   font-family: 'Nunito', sans-serif;
-  color: #FAF3BC;
+  color: #000000;
   background: #FFFFFF;
 }
 
 a {
-  color: #4FB69F;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-size: 1.500em;
-  color: #B4C34F;
+  color: #000000;
 }
 
 .btn {
@@ -29,7 +29,7 @@ h2 {
 }
 
 .btn:hover {
-  background-color: #4CC4A7;
+  background-color: #000000;
 }
 
 ul.nav {
@@ -44,7 +44,7 @@ ul.nav li {
 }
 
 ul.nav li a {
-  color: #FAF3BC;
+  color: #000000;
 }
 
 #intro {
@@ -52,12 +52,12 @@ ul.nav li a {
 }
 
 #new-cupcakes img {
-  border: 8px solid #FAF3BC;
+  border: 8px solid #000000;
   margin: 0 0 20px 0;
 }
 
 #featured-cupcake img {
-  border: 8px solid #FAF3BC;
+  border: 8px solid #000000;
 }
 
 #copyright {
