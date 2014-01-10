@@ -35,7 +35,6 @@ h2 {
 ul.nav {
   margin: 120px 0 0 0;
   list-style: none;
-  float: right;
 }
 
 ul.nav li {
@@ -61,8 +60,15 @@ ul.nav li a {
 }
 
 #copyright {
-  border-top: 8px solid #2A0400;
+  border-top: 8px solid #000000;
   padding: 10px 0px;
+  margin: 15px 0px;
+  text-align: center;
+}
+
+.nav {
+  border-bottom: 8px solid #000000;
+  padding: 20px 0px;
   margin: 15px 0px;
   text-align: center;
 }
